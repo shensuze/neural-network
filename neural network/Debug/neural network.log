@@ -1,0 +1,42 @@
+﻿  source.c
+D:\Visual Studio\neural network\neural network\source.c(152): warning C4047: “函数”:“float *”与“float (*)[12]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(152): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(153): warning C4047: “函数”:“float *”与“float (*)[12]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(153): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(154): warning C4047: “函数”:“float *”与“float (*)[12]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(154): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(158): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(171): warning C4047: “函数”:“float *”与“float (*)[3]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(171): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(172): warning C4047: “函数”:“float *”与“float (*)[3]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(172): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(176): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(177): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(452): warning C4047: “函数”:“float *”与“float (*)[12]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(452): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(452): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(453): warning C4047: “函数”:“float *”与“float (*)[12]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(453): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(453): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(454): warning C4047: “函数”:“float *”与“float (*)[12]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(454): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(454): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(458): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(459): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(460): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(471): warning C4047: “函数”:“float *”与“float (*)[3]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(471): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(471): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(472): warning C4047: “函数”:“float *”与“float (*)[3]”的间接级别不同
+D:\Visual Studio\neural network\neural network\source.c(472): warning C4024: “multiple”: 形参和实参 1 的类型不同
+D:\Visual Studio\neural network\neural network\source.c(472): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(476): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Visual Studio\neural network\neural network\source.c(477): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  neural network.vcxproj -> D:\Visual Studio\neural network\Debug\neural network.exe
